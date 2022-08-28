@@ -53,7 +53,7 @@ function Search() {
 
         <div className='btn-div'>
             <button><a href={item.sourceUrls[0]}>More Info</a></button>
-            <button>@Anointedosara 2022</button>
+            <button><a href="https://github.com/anointedosara?tab=repositories">@Anointedosara 2022</a></button>
         </div>
       </div>
         )
