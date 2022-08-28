@@ -79,6 +79,10 @@ audio {
     flex-direction: column;
 }
 
+.btn-div button {
+    margin-bottom: 100px;
+}
+
 .details button {
     background-color: #e8aa42;
     border: 3px solid #e8aa42;
@@ -99,4 +103,11 @@ audio {
     margin: 0 auto;
     padding: 0 20px;
     text-align: center;
+}
+
+.info-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
 }
